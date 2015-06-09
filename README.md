@@ -1,4 +1,4 @@
-# getting_and_cleaning_data
+# Getting and Cleaning Data - Final Project
 
 This script is designed to demonstrate my ability to collect, work with, and clean a data set to prepare tidy data that can be used for later analysis. 
 
